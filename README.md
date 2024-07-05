@@ -10,7 +10,7 @@ Deze Rampup wordt mogelijk gemaakt Hogeschool Utrecht in overeenstemming met de 
 # Constructie van de Rampup
 Deze training in de vorm van workshops wordt aangeboden in het 1e halfjaar van de opleiding en bestaat uit een 6 tal inhoudelijke workshops, omlijst door een aftrap & een finale. Voor deze workshops wordt het materiaal gebruikt zoals gepresenteerd in:
 
-* [Kick Off](./kickoff/slideshow.html)
+* [Kick Off](./kickoff/kick-off%20slides.html)
 * [Workshop 1](./workshop1/workshop1_slides.html)
 * [Workshop 2](./workshop2/workshop2_slides.html)
 * [Workshop 3](./workshop3/workshop3_slides.html)
